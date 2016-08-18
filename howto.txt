@@ -1,0 +1,29 @@
+# Howto Git
+
+#### A small start:
+
+1. List branches: git branch
+
+2. Add branch: git branch script-changes #s-c or any other name
+
+..* change branch: git checkout script-changes #or the name listed in git branch
+
+#### Change something in a file, then:
+
+3. git add a-file
+
+4. commit -m "type some info" #commits all your added files
+
+5. git push --set-upstream origin script-changes #send to git/cloud
+
+6. Change branch: git checkout master
+
+7. Update main: git pull #fetch and merge from git/cloud
+
+#### Things
+
++ writing this down and playing in order for it to sink in
++ commandline is curvey, gah!
++ cmd first, GUI later
+
+
