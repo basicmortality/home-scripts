@@ -1,3 +1,3 @@
 #!/bin/bash
-#ssh pi@192.168.1.42
+#42
 ssh pi@hdmipi.local
