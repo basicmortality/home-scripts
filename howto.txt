@@ -6,7 +6,7 @@
 
 2. Add branch: git branch script-changes #s-c or any other name
 
-..* change branch: git checkout script-changes #or the name listed in git branch
+ . change branch: git checkout script-changes #or the name listed in git branch
 
 #### Change something in a file, then:
 
